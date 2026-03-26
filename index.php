@@ -16,7 +16,7 @@
         </style>
     </head>
     <body>
-        <form action="proses.php" method="POST">
+        <form action= "proses.php" method= "POST">
             <input type= "text" name= "firstname" placeholder="Firstname"><br>
             <input type= "text" name= "lastname" placeholder="Lastname"><br>
             <input type= "text" name= "phonenumber" placeholder="Phone Number"><br>
