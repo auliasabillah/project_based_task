@@ -1,6 +1,19 @@
 <html>
     <head>
         <title>Form Sederhana</title>
+        <style>
+            body{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                min-height: 100vh;
+                margin: 0;
+            }
+            button{
+                display: block;
+                margin: 5px auto;
+            }
+        </style>
     </head>
     <body>
         <form action="proses.php" method="POST">
