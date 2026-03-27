@@ -30,6 +30,4 @@ $proses->setLastName($_POST["lastname"]);
 $proses->setPhoneNumber($_POST["phonenumber"]);
 $proses->setAddress($_POST["address"]);
 $proses->Hasil();
-
-echo $proses->hasil();
 ?>

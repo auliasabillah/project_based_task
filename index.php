@@ -12,6 +12,7 @@
             button{
                 display: block;
                 margin: 5px auto;
+                color: blue;
             }
         </style>
     </head>
