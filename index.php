@@ -9,7 +9,7 @@
                 justify-content: center;
                 min-height: 100vh;
                 margin: 0;
-                font-family: Arial:
+                font-family: Arial;
             }
             form{
                 border: 1px solid #ccc;
@@ -26,6 +26,15 @@
                 display: block;
                 margin: 5px auto;
                 padding: 8px 15px;
+                background-color: #6c63ff;
+                color: white;
+                border: none;
+                border-radius: 8px;
+                cursor: pointer;
+            }
+
+            button:hover{
+                background-color: #574fd6;
             }
             .output{
                 margin-top: 20px;
